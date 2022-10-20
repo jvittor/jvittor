@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/jvittor">
-    <img src="headvit.gif" width="850">
+    <img src="headvit.gif" width="700">
   </a>
 </div>
 
