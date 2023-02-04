@@ -1,30 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+am+from+Carapicuíba,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<br>
-<pre class="text" id="text-two">
-	<h1> Deshboard codando mais um bot pra você!!</h1> 
-  <code class="javascript">
-	function newBot(name, ID, Object){
-		this.name = name;
-		this.id = ID;
-		this.object = Object;
-		return new Bot(this.name, this.id, this.object)
-	}
-  </code>
-</pre>
-
-<link rel="stylesheet"
-      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.0/styles/default.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.0/highlight.min.js"></script>
-
-<script>hljs.initHighlightingOnLoad();</script>
 <div align="center">
-  <a href="https://github.com/jvittor">
-    <img src="https://HightechFlawedFunction.ivoric83.repl.cog" width="850">
-  </a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D0F7C&center=true&vCenter=true&width=435&lines=hello%2C+i'm+Jo%C3%A3o+V%C3%ADtor;i+studying+enginner+computer+in+UFRB" alt="Typing SVG" /></a>
 </div>
-
+<br>
+	<div  align="center">
+		<img width=30% src="3tJg.gif"/>
+	</div>
 <div align="center">
   <a href="https://github.com/jvittor" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
@@ -46,8 +26,6 @@
   
   
   <br>
-  <a href="https://github.com/jvittor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvittor&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"/>
   
   
   
