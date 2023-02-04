@@ -11,7 +11,6 @@
           <span class="pl-c1">tech</span>: <span class="pl-s">"git,adobe illustrator, photoshop, canva"</span><span class="pl-kos">;</span>
           <span class="pl-c1">studying</span>: <span class="pl-s">"java, react-native, mysql";</span><span class="pl-kos">;</span>
     <span class="pl-kos">}</span>
- </pre>
 <div align="center">
   <a href="https://github.com/jvittor">
     <img src="https://HightechFlawedFunction.ivoric83.repl.cog" width="850">
