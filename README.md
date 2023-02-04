@@ -4,13 +4,12 @@
 <br>
 <pre>   <span class="pl-c">/*i used "body" why is my body thinks now lol*/</span>
    <span class="pl-k">body</span><span class="pl-kos">{</span>
-            
-          <span class="pl-c1">skills</span>: <span class="pl-s">"front-end-developer, coffe-addict";</span><span class="pl-kos">;</span>
-          <span class="pl-c1">main-lang</span>: <span class="pl-s">"python, javascript"</span><span class="pl-kos">;</span>
-          <span class="pl-c1">casual-lang</span>: <span class="pl-s">"c, c++"</span><span class="pl-kos">;</span> 
-          <span class="pl-c1">tech</span>: <span class="pl-s">"git,adobe illustrator, photoshop, canva"</span><span class="pl-kos">;</span>
-          <span class="pl-c1">studying</span>: <span class="pl-s">"java, react-native, mysql";</span><span class="pl-kos">;</span>
-    <span class="pl-kos">}</span>
+            <span class="pl-c1">skills</span>: <span class="pl-s">"front-end-developer, coffe-addict";</span><span class="pl-kos">;</span>
+            <span class="pl-c1">main-lang</span>: <span class="pl-s">"python, javascript"</span><span class="pl-kos">;</span>
+            <span class="pl-c1">casual-lang</span>: <span class="pl-s">"c, c++"</span><span class="pl-kos">;</span> 
+            <span class="pl-c1">tech</span>: <span class="pl-s">"git,adobe illustrator, photoshop, canva"</span><span class="pl-kos">;</span>
+            <span class="pl-c1">studying</span>: <span class="pl-s">"java, react-native, mysql";</span><span class="pl-kos">;</span>
+         <span class="pl-kos">}</span>
 <div align="center">
   <a href="https://github.com/jvittor">
     <img src="https://HightechFlawedFunction.ivoric83.repl.cog" width="850">
