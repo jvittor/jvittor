@@ -2,14 +2,23 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I'm+17+years+old;I+am+from+Carapicuíba,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br>
-<pre>   <span class="pl-c">/*i used "body" why is my body thinks now lol*/</span>
-   <span class="pl-k">body</span><span class="pl-kos">{</span>
-            <h1 style="color: blue;">skills</h1>: <span class="pl-s">"front-end-developer, coffe-addict";</span><span class="pl-kos">;</span>
-            <span class="pl-c1">main-lang</span>: <span class="pl-s">"python, javascript"</span><span class="pl-kos">;</span>
-            <span class="pl-c1">casual-lang</span>: <span class="pl-s">"c, c++"</span><span class="pl-kos">;</span> 
-            <span class="pl-c1">tech</span>: <span class="pl-s">"git,adobe illustrator, photoshop, canva"</span><span class="pl-kos">;</span>
-            <span class="pl-c1">studying</span>: <span class="pl-s">"java, react-native, mysql";</span><span class="pl-kos">;</span>
-         <span class="pl-kos">}</span>
+<pre class="text" id="text-two">
+	<h1> Deshboard codando mais um bot pra você!!</h1> 
+  <code class="javascript">
+	function newBot(name, ID, Object){
+		this.name = name;
+		this.id = ID;
+		this.object = Object;
+		return new Bot(this.name, this.id, this.object)
+	}
+  </code>
+</pre>
+
+<link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.0/styles/default.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.0/highlight.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
 <div align="center">
   <a href="https://github.com/jvittor">
     <img src="https://HightechFlawedFunction.ivoric83.repl.cog" width="850">
@@ -39,4 +48,6 @@
   <br>
   <a href="https://github.com/jvittor">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvittor&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"/>
+  
+  
   
