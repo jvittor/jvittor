@@ -12,11 +12,10 @@
 body{
 
 	/*body why this is what my body thinks now :)*/
-	skills: "front-end-developer, coffe-addict";
+	skills: "fullstack-developer, coffe-addict";
 	main-lang: "python, javascript";
 	casual-lang: "c/c++";
-	tech: "git, adobe ilustrator, photoshop"; 
-	studying: "java, react-native, mysql";
+	studying: "java, react-native";
 
 }
 ```
