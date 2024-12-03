@@ -41,15 +41,7 @@ body{
   <a href="www.linkedin.com/in/jvittor" target="_blank">
     <img src="https://img.shields.io/badge" target="_blank">
   </a>
-</div>    
-<br>
-<div align="center">
-  <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></a>
-  <a href="https://img.shields.io/badge/-C-05122A?style=flat&logo=c" target="_blank"><img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c"></a>
-  <a href="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus" target="_blank"><img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus"></a>
-  <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
-  <a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3"></a>
-
+</div> 
   
   
   <br>
