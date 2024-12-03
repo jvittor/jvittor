@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?jvittor&style=flat-square)
+<div><img src="https://komarev.com/ghpvc/?username=jvittor"/></div>
 <div  align="center">
 		<img width=30% src="3tJg.gif"/>
 	</div>
