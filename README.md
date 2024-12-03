@@ -13,9 +13,8 @@ body{
 
 	/*body why this is what my body thinks now :)*/
 	skills: "fullstack-developer, coffe-addict";
-	main-lang: "python, javascript";
-	casual-lang: "c/c++";
-	studying: "java, react-native";
+	main-lang: "typescript";
+	casual-lang: "c/c++",
 
 }
 ```
