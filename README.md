@@ -21,9 +21,9 @@ body{
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jvittor&show_icons=true&theme=radical" alt="joão vítor github stats" /> 
-</div>
+<!-- <div align="center">  -->
+<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jvittor&show_icons=true&theme=radical" alt="joão vítor github stats" />  -->
+<!-- </div> -->
 
   
   
