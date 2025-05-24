@@ -1,6 +1,12 @@
 <div><img src="https://komarev.com/ghpvc/?username=jvittor"/></div>
 <div  align="center">
-		<img width=50% src="giphy.webp"/>
+		<img width=20% src="giphy.webp"/>
+	<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 	</div>
 <!-- <div align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5004&pause=1000&color=9D0F7C&center=true&vCenter=true&width=435&lines=hello%2C+i'm+Jo%C3%A3o+V%C3%ADtor;i+from+Cruz+das+Almas+-+Bahia;i+study+enginner+computer+in+UFRB;you're+welcome+:)" alt="Typing SVG" /></a>
