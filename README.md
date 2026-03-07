@@ -12,7 +12,7 @@
 ```css
 body{
 
-	/*body why this is what my body thinks now :)*/
+	/*body why this is what my body thinks lol*/
 	skills: "fullstack-developer, coffe-addict";
 	main-lang: "typescript";
 	casual-lang: "c/c++",
