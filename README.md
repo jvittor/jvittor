@@ -1,5 +1,5 @@
 <div>
-	<img src="https://komarev.com/ghpvc/?username=jvittor"/></div>
+	<!-- <img src="https://komarev.com/ghpvc/?username=jvittor"/></div> -->
 	<div style="display: flex;" align="center">
 		<img width=20% src="giphy.webp"/>
 	</div>
@@ -20,7 +20,9 @@ body{
 }
 ```
 
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,figma,mysql,prisma,cloudflare,css,docker,django,elasticsearch,fastapi,html,mongodb,nestjs,typescript,sqlite,tailwind,threejs,react,nextjs,postgres,redis,aws,git,github,vscode,linux&perline=9&theme=light" />
+</div>
 
 <!-- <div align="center">  -->
 <!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jvittor&show_icons=true&theme=radical" alt="joão vítor github stats" />  -->
